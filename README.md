@@ -6,6 +6,7 @@ Aplicativo de previsão do tempo desenvolvido com React Native e Open Weather ap
 
 ## Tecnologias utilizadas:
 - **JavaScript**
+- Framework: **React Native** ⚛️
 - 💻 **Expo** como plataforma de desenvolvimento;
 - 🌐 **Fetch** para requisições http;
 - **Api utilizada**: https://openweathermap.org/api;
