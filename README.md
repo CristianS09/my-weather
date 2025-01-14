@@ -1,6 +1,6 @@
 # My Weather
 
-Aplicativo de previsão do tempo desenvolvido com React Native e open weather api.
+Aplicativo de previsão do tempo desenvolvido com React Native e Open Weather api.
 
 ![App gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndwMzl0ODM5anEzcmFpbXpsNW5xOWltbWUzenRqNTBocWEyOThkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTWTHXpbuO4j7UqvUL/giphy.gif)
 
